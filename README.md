@@ -10,7 +10,10 @@
       - 😄 Pronouns: He/Him
       - ⚡ Fun fact: I play the trumpet - Jazz
     </td>
-    <a href="https://app.daily.dev/whizkidefos"><img src="https://api.daily.dev/devcards/f020652d48494895b0c39def2320dd72.png?r=ckx" width="300" alt="Efosa Igbinehi's Dev Card"/></a>
+    <td>
+      <a href="https://app.daily.dev/whizkidefos"><img src="https://api.daily.dev/devcards/f020652d48494895b0c39def2320dd72.png?r=ckx" width="300" alt="Efosa Igbinehi's Dev Card"/></a>
+    </td>
+    
   </tr>
 
   </table>
