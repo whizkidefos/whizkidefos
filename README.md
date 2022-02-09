@@ -18,3 +18,6 @@
   </tr>
 
   </table>
+  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=whizkidefos&theme=dracula&hide_border=true)
+
