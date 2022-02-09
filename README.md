@@ -1,8 +1,8 @@
 ### Hi there, I am Efosa 👋
 <table>
-  ###
+  
   <tr>
-    <td valigh="center">
+    <td valign="center">
       - 🔭 I’m currently working on Bloomly, a platform for at-home testing kits.
       - 🌱 I’m currently learning Svelte, Solidity and Flask.
       - 👯 I’m looking to collaborate on Web3 projects
