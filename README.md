@@ -3,7 +3,7 @@
   
   <tr>
     <td valign="center">
-      - 🔭 I’m currently working on Bloomly, a platform for at-home testing kits.
+      - 🔭 I’m currently working on Bloomly, a platform for at-home testing kits. <br>
       - 🌱 I’m currently learning Svelte, Solidity and Flask.
       - 👯 I’m looking to collaborate on Web3 projects
       - 💬 Ask me about all things web development
