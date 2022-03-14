@@ -20,4 +20,5 @@
   </table>
   
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=whizkidefos&theme=dracula&hide_border=true) -->
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
