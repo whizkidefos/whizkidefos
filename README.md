@@ -5,7 +5,7 @@
     <td valign="center">
       - 🔭 I’m currently working on Wemorial, a platform where you can create memorials for your dearly departed. <br>
       - 🌱 I’m currently learning AI and ML with Python. TDD with docker and FastAPI <br>
-      - 👯 I’m looking to collaborate on Web3 or AI projects <br>
+      - 👯 I’m looking to collaborate on Greenfield, AI or ML projects <br>
       - 💬 Ask me about all things software development <br>
       - 📫 How to reach me: @whizkidefos (Twitter), or find me on Linkedin(https://www.linkedin.com/in/efosaigbinehi/) <br>
       - 😄 Pronouns: He/Him <br>
