@@ -3,8 +3,8 @@
   
   <tr>
     <td valign="center">
-      - 🔭 I’m currently working on Wemorial, a platform where you can create memorials for your dearly departed. <br>
-      - 🌱 I’m currently learning AI and ML with Python. TDD with docker and FastAPI <br>
+      - 🔭 I’m working on Saxon Bulletin, a blogging platform for informative articles. <br>
+      - 🌱 I’m currently learning AI-driven software engineering at Skillscity BootCamp, Manchester. <br>
       - 👯 I’m looking to collaborate on Greenfield, AI or ML projects <br>
       - 💬 Ask me about all things software development <br>
       - 📫 How to reach me: @whizkidefos (Twitter), or find me on Linkedin(https://www.linkedin.com/in/efosaigbinehi/) <br>
