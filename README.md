@@ -3,7 +3,7 @@
   
   <tr>
     <td valign="center">
-      - 🔭 I’m working on Saxon Bulletin, a blogging platform for informative articles. <br>
+      - 🔭 I’m working on Saxon Bulletin, a blogging platform for informative articles and eBooks. <br>
       - 🌱 I’m currently learning AI-driven software engineering at Skillscity BootCamp, Manchester. <br>
       - 👯 I’m looking to collaborate on Greenfield, AI or ML projects <br>
       - 💬 Ask me about all things software development <br>
