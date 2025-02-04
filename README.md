@@ -4,9 +4,9 @@
   <tr>
     <td valign="center">
       - 🔭 I’m working on Saxon Bulletin, a multi-author blogging website for informative articles and eBooks. <br>
-      - 🌱 I’m currently learning AI engineering at Microsoft & Google learning platforms. <br>
+      - 🌱 I’m learning AI engineering with AWS and Cybersecurity with TryHackMe platforms. <br>
       - 👯 I’m looking to collaborate on Greenfield, AI or ML projects <br>
-      - 💬 Ask me about all things software development <br>
+      - 💬 Ask me about all things software development, machine learning (ML) & Internet of things (IoT) <br>
       - 📫 How to reach me: @whizkidefos (Twitter), or find me on Linkedin(https://www.linkedin.com/in/efosaigbinehi/) <br>
       - 😄 Pronouns: He/Him <br>
       - ⚡ Fun fact: I play the trumpet/Flugelhorn - Jazz <br>
